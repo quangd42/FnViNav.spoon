@@ -43,10 +43,6 @@ git clone https://github.com/quangd42/FnViNav.spoon.git ~/.hammerspoon/Spoons/Fn
 hs.loadSpoon("FnViNav"):start()
 ```
 
-## License
-
-MIT License - https://opensource.org/licenses/MIT
-
 ## Contributions
 
 Issues and pull requests are welcome.

@@ -9,7 +9,7 @@ obj.__index = obj
 
 -- Metadata
 obj.name = "FnViNav"
-obj.version = "1.0"
+obj.version = "0.1"
 obj.author = "quangd42"
 obj.homepage = "https://github.com/quangd42/FnViNav.spoon"
 obj.license = "MIT - https://opensource.org/licenses/MIT"
